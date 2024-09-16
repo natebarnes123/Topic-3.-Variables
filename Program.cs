@@ -24,7 +24,7 @@ namespace Topic_3._Variables
             int radius = 2;
             double area = 12.57;
             Console.WriteLine("Area of a circle is the radius squared times PI.");
-            Console.WriteLine("The area of a circle with a radius of 2 is" + (area = Math.PI * (radius * 2));
+            Console.WriteLine("The area of a circle with a radius of 2 is" + (area = Math.PI * (radius * 2);
 
 
 
